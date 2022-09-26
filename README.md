@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff106&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Caio+Fonseca;I'm+32+years+old...;I+from+Brazil,+Santos-SP;I'm+student+of+development+Front+End;Be+Welcome!+<3)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiofonseca90&show_icons=true&count_private=true&hide_border=true&title_color=fff106&icon_color=fff106&text_color=f5f5f5&bg_color=4b225b" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiofonseca90&show_icons=true&count_private=true&hide_border=true&title_color=fff106&icon_color=fff106&text_color=f5f5f5&bg_color=4b225b" alt="Caio Fonseca github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofonseca90&layout=compact&hide_border=true&title_color=fff106&text_color=f5f5f5&bg_color=4b225b" />
 </div>
 
