@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=521f66&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=521f66&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff106&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Caio+Fonseca;I'm+32+years+old...;I+from+Brazil,+Santos-SP;I'm+student+of+development+Front+End;Be+Welcome!+<3)](https://git.io/typing-svg)
 
@@ -48,4 +48,4 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b225b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b225b&height=150&section=footer"/>
