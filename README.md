@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=521f66&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff106&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Caio+Fonseca...;I+from+Brazil...,+Santos-SP;I'm+student+of+development+Front-End;Be+Welcome!+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff106&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Caio+Fonseca...;I+from+Brazil,+Santos-SP;I'm+student+of+development+Front-End;Be+Welcome!+<3)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiofonseca90&show_icons=true&count_private=true&hide_border=true&title_color=fff106&icon_color=fff106&text_color=f5f5f5&bg_color=4b225b" alt="Caio Fonseca github stats" /> 
