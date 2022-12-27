@@ -42,11 +42,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{caiofonseca90}/count.svg" /></p> 
 <br>
-</div>
+</div> -->
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b225b&height=150&section=footer"/>
