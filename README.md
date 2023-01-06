@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff106&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Caio+Fonseca...;I+from+Brazil,+Santos-SP;I'm+student+of+development+Front-End;Be+Welcome!+<3)](https://git.io/typing-svg)
 
-<div align="center">  
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiofonseca90&show_icons=true&count_private=true&hide_border=true&title_color=fff106&icon_color=fff106&text_color=f5f5f5&bg_color=4b225b" alt="Caio Fonseca github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofonseca90&layout=compact&hide_border=true&title_color=fff106&text_color=f5f5f5&bg_color=4b225b" />
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=caiofonseca90&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
