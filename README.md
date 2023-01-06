@@ -7,9 +7,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofonseca90&layout=compact&hide_border=true&title_color=fff106&text_color=f5f5f5&bg_color=4b225b" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=caiofonseca90&bg_color=5b326b&color=ffff00&line=fff106&point=ffff&theme=gotham&hide_border=true&area=true)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=caiofonseca90&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
